@@ -1,0 +1,41 @@
+.rock-salt-regular {
+  font-family: "Rock Salt", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sofadi-one-regular {
+  font-family: "Sofadi One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+  background-color: #FFF4C5 !important;
+}
+
+h1{
+  font-size: 110px!important;
+  color:#FF855A !important;
+  font-family: "Sofadi One" !important;
+  margin-top: 20px !important;
+}
+
+h3{
+  color: #A5B7E5!important;
+  font-size: 20px !important;
+  font-family: "Sofadi One" !important;
+}
+.gameBtn{
+    display: inline-block;
+      padding: 10px 20px;
+      background-color: #D1D175;
+      color: #382020;
+        font-family: "Sofadi One" !important;
+      text-decoration: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+      border: 1px solid transparent;
+      transition: background-color 0.3s;
+}
